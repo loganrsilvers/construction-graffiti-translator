@@ -1,4 +1,4 @@
-import type { DetectedColor, PaintColorId } from "./types";
+import type { DetectedColor, PaintColorId } from "../types";
 
 export const CHICAGO_COLOR_KEY: {
   id: PaintColorId;
