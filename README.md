@@ -4,8 +4,6 @@ A mobile-first web app that translates the spray-painted marks you see on Chicag
 
 **Live app:** [loganrsilvers.github.io/construction-graffiti-translator](https://loganrsilvers.github.io/construction-graffiti-translator/)
 
-No sign-up, no history, no account. Take a photo, get a translation, hit **Done**, start over.
-
 ---
 
 ## How it works
